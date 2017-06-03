@@ -4,7 +4,7 @@
 
     $ git init
     $ git commit --allow-empty -m 'initialer Commit'
-    $ git checkout -v develop master
+    $ git checkout -b develop master
 
 ##Feature entwickeln 
 
